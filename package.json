@@ -8,6 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "deck.gl": "^8.9.15",
+    "mapbox-gl": "^2.14.1",
     "vue": "^3.3.2"
   },
   "devDependencies": {
